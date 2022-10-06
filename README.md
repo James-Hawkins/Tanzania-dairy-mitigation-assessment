@@ -1,4 +1,4 @@
-Outline of model files for: Reduced dairy import dependency helps mitigate Tanzania’s GHG emissions
+Outline of model files for: High yield dairy cattle breeds improve farmer incomes, curtail greenhouse gas emissions and reduce dairy import dependency in Tanzania 
 
 Description
 Folder contents include:
@@ -12,12 +12,12 @@ Contents
 
 Excel
 •	Income per household by district (Mufindi, Mvomero, Njombe, Rungwe)
-	- Used to conduct dairy income calculations, household income, and uncertainty analysis for income estimates for each household across districts
+	- Used to conduct dairy income calculations, changes in crop income, and uncertainty analysis for income estimates for each household type across districts
 
 Python
 
 •	Simulation_engine.py
-Showing the core model code used to run LivSim and conducts land footprint and GHG accounting for each simulation unit.
+Showing the core model code used to run LivSim and conduct land footprint and GHG accounting for each simulation unit.
 
 •	Model_run.ipynb
 Example of model instance and associated parameters used to run the simulations described in article.
