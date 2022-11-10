@@ -1,4 +1,4 @@
-Outline of model files for: High yield dairy cattle breeds improve farmer incomes, curtail greenhouse gas emissions and reduce dairy import dependency in Tanzania 
+Outline of model files for: High-yield dairy cattle breeds improve farmer incomes, curtail greenhouse gas emissions and reduce dairy import dependency in Tanzania 
 
 Description
 Folder contents include:
