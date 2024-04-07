@@ -1,5 +1,7 @@
 Outline of model files for: High-yield dairy cattle breeds improve farmer incomes, curtail greenhouse gas emissions and reduce dairy import dependency in Tanzania 
 
+Hawkins, J.W., Komarek, A.M., Kihoro, E.M. et al. High-yield dairy cattle breeds improve farmer incomes, curtail greenhouse gas emissions and reduce dairy import dependency in Tanzania. Nat Food 3, 957–967 (2022). https://doi.org/10.1038/s43016-022-00633-5
+
 Description
 Folder contents include:
 
